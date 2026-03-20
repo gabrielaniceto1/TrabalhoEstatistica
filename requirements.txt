@@ -1,6 +1,7 @@
-pandas
-numpy
-scipy
-seaborn
-matplotlib
-kagglehub
+pandas      # Manipulação e análise de dados tabulares
+numpy       # Computação numérica com arrays
+scipy       # Algoritmos matemáticos, científicos e estatísticos
+seaborn     # Visualização estatística de dados
+matplotlib  # Criação de gráficos e visualizações
+kagglehub   # Acesso a datasets e recursos do Kaggle
+openpyxl    # Leitura e escrita de arquivos Excel
