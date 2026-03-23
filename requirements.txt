@@ -5,3 +5,4 @@ seaborn     # Visualização estatística de dados
 matplotlib  # Criação de gráficos e visualizações
 kagglehub   # Acesso a datasets e recursos do Kaggle
 openpyxl    # Leitura e escrita de arquivos Excel
+ipykernel   # Ajuda a acessar o kernel da venv com o vs code
